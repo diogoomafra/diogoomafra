@@ -48,14 +48,14 @@ Reconhecimento pela inovação, qualidade técnica e impacto da solução aprese
 ---
 
 ## 🔐 Projete-Ekko  
-Solução premiada envolvendo hardware, software e automação inteligente.
+Solução premiada envolvendo simulação na Unity, software e automação inteligente.
 
 🔗 `https://github.com/diogoomafra/Projete-ekko`
 
 ---
 
 ## 🌐 Tarefas em Linguagem de Programação  
-Projetos, exercícios e aplicações web modernas front-end e back-end.
+Projetos, exercícios e aplicação de conceitos da matéria.
 
 🔗 `https://github.com/diogoomafra/TarefasLPR`
 
