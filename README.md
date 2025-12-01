@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou:+Diogo+Mafra!;Técnico+em+Eletrônica;Desenvolvimento+de+Sistemas;Criador+de+Soluções+Inovadoras" alt="Typing SVG">
 </p>
@@ -67,11 +65,14 @@ Projetos, exercícios e aplicações web modernas front-end e back-end.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogoomafra&show_icons=true&theme=dark&hide_border=true&icon_color=00BFFF&title_color=00BFFF"/>
+<!-- GitHub Stats -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoomafra&layout=compact&theme=dark&hide_border=true&title_color=00BFFF"/>
+<!-- Top Languages -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="350em" src="https://streak-stats.demolab.com?user=diogoomafra&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+<!-- Streak Stats -->
+<img width="380em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 
 </div>
 
