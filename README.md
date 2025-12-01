@@ -65,17 +65,16 @@ Projetos, exercícios e aplicações web modernas front-end e back-end.
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (anuraghazra) -->
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogoomafra&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<!-- Top Languages -->
+<!-- Top Languages (anuraghazra) -->
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoomafra&layout=compact&theme=tokyonight&hide_border=true" />
 
-<!-- Streak Stats -->
+<!-- Streak Stats (demolab) -->
 <img width="380em" src="https://streak-stats.demolab.com?user=diogoomafra&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 # 📫 Contato
