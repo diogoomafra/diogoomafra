@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Digo+Mafra!;Técnico+em+Eletrônica;Desenvolvimento+de+Sistemas;Criador+de+Soluções+Inovadoras" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou:+Diogo+Mafra!;Técnico+em+Eletrônica;Desenvolvimento+de+Sistemas;Criador+de+Soluções+Inovadoras" alt="Typing SVG">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 # 🌑 Sobre mim
 
 Sou **Técnico em Eletrônica com ênfase em Desenvolvimento de Sistemas**, focado em criar soluções modernas que unem **hardware + software**.  
-Trabalho com microcontroladores, automação, integração de sistemas, desenvolvimento de interfaces e aplicações inteligentes.
+Trabalho com microcontroladores, integração de sistemas, desenvolvimento de interfaces e aplicações inteligentes.
 
 ---
 
@@ -52,26 +52,26 @@ Reconhecimento pela inovação, qualidade técnica e impacto da solução aprese
 ## 🔐 Projete-Ekko  
 Solução premiada envolvendo hardware, software e automação inteligente.
 
-🔗 `https://github.com/SEU_USUARIO/Projete-ekko`
+🔗 `https://github.com/diogoomafra/Projete-ekko`
 
 ---
 
-## 🌐 Desenvolvimento-Web  
+## 🌐 Tarefas em Linguagem de Programação  
 Projetos, exercícios e aplicações web modernas front-end e back-end.
 
-🔗 `https://github.com/SEU_USUARIO/Desenvolvimento-Web`
+🔗 `https://github.com/diogoomafra/TarefasLPR`
 
 ---
 
-# 📊 Estatísticas — Tema Full Dark
+# 📊 Estatísticas 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&icon_color=00BFFF&title_color=00BFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogoomafra&show_icons=true&theme=dark&hide_border=true&icon_color=00BFFF&title_color=00BFFF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=00BFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoomafra&layout=compact&theme=dark&hide_border=true&title_color=00BFFF"/>
 
-<img width="350em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
+<img width="350em" src="https://streak-stats.demolab.com?user=diogoomafra&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/>
 
 </div>
 
@@ -80,10 +80,10 @@ Projetos, exercícios e aplicações web modernas front-end e back-end.
 # 📫 Contato
 
 <p align="left">
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:dm2103955@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b"/>
   </a>
-  <a href="https://linkedin.com/in/SEULINKEDIN">
+  <a href="https://linkedin.com/in/diogo-augusto-mafra-9b8920392">
     <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0a66c2"/>
   </a>
 </p>
